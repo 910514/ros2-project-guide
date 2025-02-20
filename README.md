@@ -73,7 +73,7 @@ The example code is divided into three core modules: **Camera**, **LiDAR**, and 
   ![LiDAR Data Classification](https://github.com/910514/ros2-project-guide/blob/main/images/Cartesian_gui_dbscan.png)
 
 - **True_north.py**  
-  This script measures the distance directly in front of the camera (i.e., the direction the camera is facing) and visualizes the results.  
+  This script measures the distance directly in front of the camera (i.e., the direction the camera is facing).  
   ![Distance Measurement](https://github.com/910514/ros2-project-guide/blob/main/images/distance.png)
 
 #### YOLO (Object Detection)
