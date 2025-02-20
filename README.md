@@ -1,6 +1,6 @@
 # ROS2 Project Guide
 
-![TurtleBot3 Burger](https://github.com/username/ros2-project-guide/blob/main/images/turtlebot3.jpg)
+![TurtleBot3 Burger](https://github.com/910514/ros2-project-guide/blob/main/images/turtlebot3.jpg)
 
 ## Project Introduction
 
